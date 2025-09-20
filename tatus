@@ -1,0 +1,8 @@
+*   [33m7b12f29[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Resolve merge conflict in index.html
+[31m|[m[32m\[m  
+[31m|[m * [33md44579b[m[33m ([m[1;32mfeature/navbar[m[33m)[m Modify index.html in feature/navbar branch
+* [32m|[m [33m2fd7a44[m Modify index.html in main branch
+[32m|[m[32m/[m  
+* [33mc1b7707[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/feature/navbar[m[33m)[m Update index.html in main branch
+* [33mf223785[m Add navbar.html in feature/navbar branch
+* [33m4688793[m[33m ([m[1;32mmaster[m[33m)[m Initial commit with base project
